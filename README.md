@@ -27,7 +27,7 @@ I am a **Computer Science Engineering** student at **Graphic Era Hill University
 - **Frameworks & Libraries**: TensorFlow, OpenCV, YOLOv5, Pandas, NumPy
 - **Databases**: MySQL, Firebase
 - **Version Control**: Git, GitHub
-- **Web Development**: HTML, CSS, JavaScript (Exploring React.js)
+- **Web Development**: HTML, CSS
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumitSinghRana&show_icons=true&theme=radical)
