@@ -34,7 +34,7 @@ I am a **Computer Science Engineering** student at **Graphic Era Hill University
 
 ## 📫 Connect with Me
 - 📧 Email: sumitrana7351@gmail.com
-- 💼 LinkedIn: [Sumit Singh Rana](https://www.linkedin.com/in/sumit-singh-rana-b26946309)s
+- 💼 LinkedIn: [Sumit Singh Rana](https://www.linkedin.com/in/sumit-singh-rana-b26946309)
 
 
 ⭐ **Let's collaborate and build something amazing!** 🚀
