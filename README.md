@@ -25,7 +25,7 @@ I am a **Computer Science Engineering** student at **Graphic Era Hill University
 ## 🛠️ Technologies & Tools
 - **Languages**: Python, C, C++
 - **Frameworks & Libraries**: TensorFlow, OpenCV, YOLOv5, Pandas, NumPy
-- **Databases**: MySQL, Firebase
+- **Databases**: MySQL
 - **Version Control**: Git, GitHub
 - **Web Development**: HTML, CSS
 
@@ -33,8 +33,8 @@ I am a **Computer Science Engineering** student at **Graphic Era Hill University
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumitSinghRana&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
-- 📧 Email: sumitsinghrana@example.com
-- 💼 LinkedIn: [Sumit Singh Rana](https://www.linkedin.com/in/sumitsinghrana)
-- 🐦 Twitter: [@SumitSinghRana](https://twitter.com/SumitSinghRana)
+- 📧 Email: sumitrana7351@gmail.com
+- 💼 LinkedIn: [Sumit Singh Rana](https://www.linkedin.com/in/sumit-singh-rana-b26946309)s
+
 
 ⭐ **Let's collaborate and build something amazing!** 🚀
