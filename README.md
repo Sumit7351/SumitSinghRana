@@ -14,9 +14,9 @@ I am a **Computer Science Engineering** student at **Graphic Era Hill University
 - Built a real-time sign language detection system using **YOLOv5** and **OpenCV**.
 - Detects five gestures: **Yes, No, Hello, Please, and Thank You**.
 
-### 🔹 NLP-based Sentiment Analysis
-- Analyzed social media feedback with **BERT** achieving **85% accuracy**.
-- Designed an **interactive dashboard** to visualize sentiment trends.
+### 🔹 Pseudo-Code to C Code Generator (Compiler Design)
+Developed a custom compiler using Lex and Yacc that converts simplified pseudo-code into valid C code.
+Aims to simplify coding for beginners by translating easy-to-read syntax into structured C programs.
 
 ### 🔹 Twitter Sentiment Analysis
 - Implemented a model to classify tweets as **positive, negative, or neutral**.
